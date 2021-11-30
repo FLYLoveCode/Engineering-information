@@ -1,1 +1,6 @@
-# Engineering-information
+# 工程信息管理系统简介
+
+工程信息管理系统是基于visual Basic 6.0开发的一款程序，是本人的一项课程设计作业，由于对vb学习尚少，基础功能较少，其他功能有待后期开发，现将源码上传到GitHub，仅供个人学习交流使用！
+
+# 相关链接
+蓝奏云下载链接：https://xxxfly.lanzouo.com/iy6W1x2gzhi
